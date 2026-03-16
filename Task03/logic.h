@@ -3,5 +3,6 @@
 
 using namespace std;
 
-bool is_perfect(int number);
-bool is_perfect2(int number);
+int count_multioles(int number, int mult);
+int count(int number);
+
